@@ -1,2 +1,2 @@
 # Talks
-PDFs of Talks I Have Given
+A curated collection of PDFs from the talks I have delivered.
